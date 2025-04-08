@@ -1,2 +1,4 @@
 # FontesApp
-Guardará fontes complexas da Aplicação
+Está parte deverá ser usada para armazenar as Fontes da Aplicação do projeto, como:
+ - Bibliografia
+ - Códigos (.java)
